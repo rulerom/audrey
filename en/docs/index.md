@@ -70,9 +70,9 @@
 <div class="rom-footer">
     <p class="rom-footer-tagline">Communicate. Command. Control.</p>
     <p>
-        <a href="https://intent-garden.org">🌿 Intent-Garden.Org</a>
+        <a href="https://intent-garden.org/main/">🌿 Intent-Garden.Org</a>
         &nbsp;|&nbsp;
-        <a href="https://rulerom.com">📜 Rule-ROM.com</a>
+        <a href="https://rulerom.com/en/">📜 Rule-ROM.com</a>
     </p>
 
     <div class="rom-lang-switcher" style="margin: 1.5rem 0;">
@@ -83,6 +83,6 @@
 
     <p style="margin-top: 1rem; font-size: 0.75rem; opacity: 0.6;">
         © 2026 Intent-Garden. Specifications: CC BY-ND 4.0. Hardware: CERN-OHL-S v2.<br>
-        <a href="https://pki.rulerom.com">Verified by Rule-ROM Root CA</a>
+        <a href="https://pki.rulerom.com/en/">Verified by Rule-ROM Root CA</a>
     </p>
 </div>
